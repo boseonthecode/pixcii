@@ -36,6 +36,7 @@
 *.exe
 *.out
 *.app
+pixcii
 
 # debug information files
 *.dwo
